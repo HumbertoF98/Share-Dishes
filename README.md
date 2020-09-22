@@ -8,7 +8,9 @@
 ## Sobre o projeto
 
 O projeto é um desafio pessoal com o objetivo de aprimorar minhas skills, tanto de front-end quanto de back-end;
+
 Para a utilização deste projeto, foi desenvolvida por mim uma API com Node.Js + Express e o deploy foi realizado no Heroku, uma plataforma em nuvem como serviço que suporta aplicações back-end;
+
 Utilizei como banco de dados o Postgresql;
 
 Este projeto é uma aplicação chamada "Share Dishes", onde será possível realizar as seguintes tarefas:
