@@ -54,9 +54,9 @@ Primeiro clone o repositório em seu computador, por meio do terminal utilizando
 
 ```sh
   # Clone o repositório
-  $ git clone https://github.com/HumbertoF98/Nossos-Pratos.git
+  $ git clone https://github.com/HumbertoF98/Share-Dishes.git
   # Entre na pasta raiz da aplicação
-  $ cd Nossos-Pratos
+  $ cd Share-Dishes
 ```
 
 2. Instalando dependências
@@ -64,12 +64,6 @@ Primeiro clone o repositório em seu computador, por meio do terminal utilizando
 ```sh
   # Instale as dependências da aplicação
   $ npm install # ou yarn (caso tenha instalado)
-```
-
-3. Configure sua baseURL
-
-```sh
-# Configure como preferir através do diretório src/services/api.ts
 ```
 
 4. Iniciando a aplicação
