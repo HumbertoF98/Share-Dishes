@@ -4,6 +4,9 @@ export const Container = styled.div`
   background: #f0f0f5;
   border-radius: 8px;
   width: 600px;
+  button {
+    cursor: pointer;
+  }
 
   header {
     background: #ffb84d;
