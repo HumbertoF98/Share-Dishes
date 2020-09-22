@@ -11,7 +11,7 @@ Here the Axios interceptors were used,
   at that moment it is checked if there is a token in the localStorage,
    and if it exists, it adds the Authorization Header to the request.
  */
-api.interceptors.request.use(async (config) => {
+api.interceptors.request.use(async (config: any) => {
   const token = localStorage.getItem("userToken");
   if (token) {
     // eslint-disable-next-line no-param-reassign
