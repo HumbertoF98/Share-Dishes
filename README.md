@@ -1,6 +1,7 @@
 # Share Dishes
 
 <h1 align="center">
+<img alt="Share-Dishes" src="src/assets/nossosPratos.png" height="100px" />
     <br/>
    <a href="https://pt-br.reactjs.org/docs/getting-started.html" target="_blank" rel="noopener">ReactJS</a>
 </h1>
